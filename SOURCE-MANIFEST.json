@@ -1,0 +1,1012 @@
+[
+  {
+    "path": "src/MuEditor/WorldEditor/EditorSources.cmake",
+    "bytes": 5558,
+    "sha256": "3BDE7674558F226599A982239ED23046E568D5E384B4AE844B111028EA1FAEE1"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuLibraryResources.cpp",
+    "bytes": 7164,
+    "sha256": "02658A1EA33370831D9906210FE7290563C803379903FC3BCBA03CF1AFC3D9EB"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuLibraryResources.h",
+    "bytes": 1068,
+    "sha256": "BA9B74E53CABF9777CFB7A3E0EEAF695B994D8BEFFB7C0DCE463681A0150363C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuModelThumbnail.cpp",
+    "bytes": 2124,
+    "sha256": "AA35990A0711E11B63D546C095A14A78D810FEBB6125CF69C908EAB301D8DED1"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuModelThumbnail.h",
+    "bytes": 229,
+    "sha256": "0B88EEF30519B4E016B37B6428A8ED57FAE3E3B044D493187D3FB2229EE341CF"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuPlacementPreview.cpp",
+    "bytes": 8980,
+    "sha256": "495E75CDA09E3340505BD4A9688A1A1627B7BBFDCF33755ED3A24076447A0350"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuPlacementPreview.h",
+    "bytes": 1346,
+    "sha256": "E21C69832C3F0652154F585C4943DC870E8D2243C5B2CE4DD64E82B30138ABFD"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuTerrainScene.cpp",
+    "bytes": 4361,
+    "sha256": "9A60E86F4DB2AEA15D0BFEC9FC1D5FE6E7FDDE6FB817CBBC99E786CB0972E84D"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuTerrainScene.h",
+    "bytes": 617,
+    "sha256": "DDD2E6086AB5C7B1315B9072E0228599025EF8FD43162A23D4949E77F2585C75"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuTerrainTools.cpp",
+    "bytes": 2677,
+    "sha256": "E3480375927B42E7A7AC26938CF4CEFC38D59C0F756F08445A9745D1770595C0"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuTerrainTools.h",
+    "bytes": 862,
+    "sha256": "0F4AC60A77E5D8891339B71AF59B709E6091357B70341B737160B1B802FDB7F3"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuWorldScene.cpp",
+    "bytes": 24198,
+    "sha256": "58C92D5F6701DE3F0FB0A979A0D892817552653B6B91F5F6DEAA8989AF6B8A8C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuWorldScene.h",
+    "bytes": 5152,
+    "sha256": "AA43A93A5AF6B73250E570AE8A4A8F51A2FE14FCEE88F9C09BEA5F2D805B1708"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuWorldSceneLibrary.cpp",
+    "bytes": 4699,
+    "sha256": "21724D4F931C0A8959689B721D6716949E376825A4DE0142284C746C29770C0F"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/MuWorldScenePlacement.cpp",
+    "bytes": 1586,
+    "sha256": "1EC34CABEB5E716C9E1B6317E1A9864E8A073BD048BD734B3C805555A4FC3861"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/WorldEditorIntegration.cpp",
+    "bytes": 181862,
+    "sha256": "57157567448804534D79410223F75A810FC7CDF553C095C257A73523AC3B2F88"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/client/WorldEditorIntegration.h",
+    "bytes": 440,
+    "sha256": "2F4C3B4C43B9DE06B3CBDA62AE3B06A5DA5B33343DE45CC8AE70E776186FBFE9"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/SilverWorldStudioBridge.cpp",
+    "bytes": 14920,
+    "sha256": "36AB2105C89D5B34C338EE64EF6429DB5EC08E6A83DF9FF61BA408DD8B9F0D83"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/SilverWorldStudioBridge.h",
+    "bytes": 2161,
+    "sha256": "FD84E090C3A96873F83141BC52216D363AFB1A70441F76327CC502F6CE3BA038"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainAttributeCodec.cpp",
+    "bytes": 2882,
+    "sha256": "E17583827D9232AC55F566C22B8634A863A6817C4ED2C1AC438358C9BBB86939"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainAttributeCodec.h",
+    "bytes": 655,
+    "sha256": "5A2753A40F05DA3D7278F36F161B241CF32442912D9E5C2464356BDE77AC31D2"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainBrushDocument.cpp",
+    "bytes": 6410,
+    "sha256": "A1999EECE58F145554E6CB02FE733F1618147BF835D1E11CB98CE9CFC567B479"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainBrushDocument.h",
+    "bytes": 1916,
+    "sha256": "529527E8B3140DBE4651F181841221101E68262204B01FC9E526A8B5F297E9A1"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainBrushFootprint.h",
+    "bytes": 653,
+    "sha256": "DA7AF447689EF660B1F560F1618DB70A0D7183E2B30C0B2B9CC86E7F5022247B"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainCandidateStore.cpp",
+    "bytes": 5688,
+    "sha256": "D78152001A09C1D852A5126EE6EE6DF9F60A164E05FF04A113A4D33D78B219E0"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainCandidateStore.h",
+    "bytes": 733,
+    "sha256": "189B43DC047BD8489990490DD32100E2D5892EA1D8C9C8793041AAAD9D0D5877"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainHeightFile.cpp",
+    "bytes": 3088,
+    "sha256": "36B7DCED0D8092F5B578444F6552526ED6EED86272169CF1DBD51215DBA11DA8"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainHeightFile.h",
+    "bytes": 628,
+    "sha256": "6725A12075BC5DCC40D6CF833E5EF0A2D4A602A087BF530BC5063FB2F6F109E2"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainMappingCodec.cpp",
+    "bytes": 3008,
+    "sha256": "B1791C61B064334BE1778BD97C6F451AECF67005990041DA373A559738D317CF"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/TerrainMappingCodec.h",
+    "bytes": 1161,
+    "sha256": "818885D630BF50348CFCFA2416251E7BD27214399A32C85CD3E4EB52F61D7859"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiCandidateCatalog.cpp",
+    "bytes": 8049,
+    "sha256": "FF399C2635B06AC287E18042A5EA69B10CC2B2B99C847709FB241CBD00AB4ED9"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiCandidateCatalog.h",
+    "bytes": 1086,
+    "sha256": "AC629A88F28B740B6AEB01AC56DFDDF21E1AF8BA7F2B86323E21792DCD834BA0"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiCommandBatch.cpp",
+    "bytes": 3514,
+    "sha256": "D44E4E96C5A9F752C59A0C08C36119E3B7A3026F60287DA9CBD7BD2FC6B57C13"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiCommandBatch.h",
+    "bytes": 837,
+    "sha256": "D4AB3AB69937720F1F91C655E400363A1399C06B5A268B3456F3877378EBEBDC"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiEffectBatch.cpp",
+    "bytes": 3451,
+    "sha256": "DFC9FEE9B926BF303F0B2BAEBB8D56C1D04681144A6762732DFEF67D5F4647C8"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiEffectBatch.h",
+    "bytes": 810,
+    "sha256": "91FFD06494125771860F57BE9F1CC4EA4E0BD6FC1E9728CB072C08F61CFD1B30"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiGameplayBatch.cpp",
+    "bytes": 3547,
+    "sha256": "A01C6E5D3C130B8A549308FA7C34585E00BF07C00BEEDFB7E08B73EB73A53F3F"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiGameplayBatch.h",
+    "bytes": 871,
+    "sha256": "E903C1E7134A6E24D917D1418AA45563CFCB819225BFB8C211FEABFB5FF865A4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiRequest.cpp",
+    "bytes": 6508,
+    "sha256": "7F8895AFBC548DB0CA795B35CA8487CD72AA915AFAEE3DBD301E157D867DC812"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiRequest.h",
+    "bytes": 1578,
+    "sha256": "C0BB33CE1BBE668F319149B549DAF81649C288F1C2AD4AE934DA7F17E5BC1739"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiSpawnBatch.cpp",
+    "bytes": 3342,
+    "sha256": "0074E40E830B86168F5D689A5FC6055ABE96437DA0D06BDE3CED807926D97113"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiSpawnBatch.h",
+    "bytes": 664,
+    "sha256": "0774677A852F91277B912B1CCAE8EB6E3AE10FC0D611BE64352AE7BA3AD1BB95"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiTerrainBatch.cpp",
+    "bytes": 3290,
+    "sha256": "D0419D81180202BB6D366D69F3BDD5B6BD7E712A12C1A1DB4FEE9D438D89C962"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldAiTerrainBatch.h",
+    "bytes": 694,
+    "sha256": "F275FB73DB9ACC1657A7209BE233A91EF0F0980F4B81371DDA9578B0D5BE607D"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldBlenderProcess.cpp",
+    "bytes": 3125,
+    "sha256": "8C7DEF5AEDBDD271AA8E75584C13A0E8F6E07CD04433E5C1ACD1BB2CF3CF96A6"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldBlenderProcess.h",
+    "bytes": 1034,
+    "sha256": "935A43C8C38EA60B8FBE9F09808CA8F6AB546E3EC7CABDCE783727D8E301A1D6"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCadLayout.cpp",
+    "bytes": 5327,
+    "sha256": "0C5F63450BC16E9E62A1778A4A8949EB796C9435CD514AB075FBF13A7C0D1DF0"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCadLayout.h",
+    "bytes": 873,
+    "sha256": "DDF83745DA62D39E3935C8C24126D136D5E88070E2D219FA033D18E4373B4717"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCameraViews.h",
+    "bytes": 1285,
+    "sha256": "1572DB6EC2BD29CC18126E57529D19408334239D21543E3AEBDEB8C01CEA8D8D"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateAsset.h",
+    "bytes": 284,
+    "sha256": "ED6F5780A77AB9B1634D896AA7C0F96CA6E34E075EEC4566F468AD76D559F5A1"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateBrowser.cpp",
+    "bytes": 1067,
+    "sha256": "0D791AF957090DAEEE1A7A104A833A6A2E1D22D196E0AD28EF8423EF7DAD893B"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateBrowser.h",
+    "bytes": 456,
+    "sha256": "E3587F9CF9FB5B6AB2559120930A074775DCAA911828962259D03009D5B704AF"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateCompare.cpp",
+    "bytes": 10053,
+    "sha256": "C54078F98E967BF277AC89522AD3E4358D278F2B531334890370F34E9F61EC31"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateCompare.h",
+    "bytes": 1002,
+    "sha256": "D9B2886CE7B97352210B21153C40074FF3E445E93F3B4489234102FA43EC678C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateManifest.cpp",
+    "bytes": 2093,
+    "sha256": "D9B337D99EF7265418A661F514B9ACFCA5AEAB688CB24D71DAB027894BF37661"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateManifest.h",
+    "bytes": 594,
+    "sha256": "EB5E3B8B90829F4A3C66961538EBDEE8286562AD0F29EA6321354E0E38B4CC48"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateVerifier.cpp",
+    "bytes": 1638,
+    "sha256": "B1E2EA5029C56865D943E8A3DC950F237AACC51CFE62FF96BB28A6FB29BED960"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldCandidateVerifier.h",
+    "bytes": 799,
+    "sha256": "A9F680A783C83B55E2113FCA44024E56E21D5CDC88B21872A646DD17FF40E99B"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldEditorCamera.cpp",
+    "bytes": 2123,
+    "sha256": "0A61BC4722A7205B28B53AA34D45603880D8DFEB0179A67F19CF2A16BEA3CBB9"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldEditorCamera.h",
+    "bytes": 569,
+    "sha256": "883AD6D8AEB1E805220DC0CF893CF0F72552C0353BD52401BC52FD4BF897E88A"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldEditorPolicy.h",
+    "bytes": 772,
+    "sha256": "BC8C545B7B024DCB395BF0652C11F4B72EC5D84D583A3852BAE50D0E610631BC"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldEffectDocument.cpp",
+    "bytes": 11936,
+    "sha256": "3D0345613A5749F9270B3564F7D9884A4BB185F14903C567BC4E1332F1EF1CFE"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldEffectDocument.h",
+    "bytes": 3087,
+    "sha256": "0860EB7ED5772DBCA1DFBAFE7E10B2F9245CD4965312F4E1E46BECA1557C9FD7"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldFileIo.h",
+    "bytes": 1416,
+    "sha256": "783A98DBBD8069233F6EB28FB2D86520BCA4673D61EE0F651963133B8516A783"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldGateCandidateFile.cpp",
+    "bytes": 2829,
+    "sha256": "151FABDC71EFE0684F86C0960E6F741EAE5064CA910ADD9F81CECBCB155D9A94"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldGateCandidateFile.h",
+    "bytes": 214,
+    "sha256": "24F1569C9EC9615A7E3A0A6502021634AC067D548142DD16FA3F5BCEF08FA1A4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldGateDocument.cpp",
+    "bytes": 7570,
+    "sha256": "706A52897AF2DE2735352EBD46F434638175F40064207821BB8146682041D25C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldGateDocument.h",
+    "bytes": 2244,
+    "sha256": "40E761BC378196B901A2C4047F90EA6AF0FB5F35FE815170D1AC45D7118671AF"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldGlobalAssetRegistry.cpp",
+    "bytes": 7262,
+    "sha256": "8AE6328D36DC3257FC643BCD51E1C0D0725542E74A61245FD5B8351F1BBCEED7"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldGlobalAssetRegistry.h",
+    "bytes": 1600,
+    "sha256": "034F0B3DD8E49FDB3D9300E19662AADF801F9FA451D562689EFD0BEBBDEE56F3"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldHistoryCoordinator.cpp",
+    "bytes": 1995,
+    "sha256": "F324AA9375C7CE5153D8CF668E8A79539C57FBA08FA3AADF862CD37C18D7EBD8"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldHistoryCoordinator.h",
+    "bytes": 1139,
+    "sha256": "7E8818368AF9889F05092A17584B39AC936FBB2F0455AA84FCB2D8BFF0D36708"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldLayerDocument.cpp",
+    "bytes": 9115,
+    "sha256": "59FA369A0FC07FDD0FD23587591E5C52FEB9835ADA334868ECAAF1FEEB6F0E73"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldLayerDocument.h",
+    "bytes": 2846,
+    "sha256": "A1A7201313700319540F4E93F73FB2D0A7958CCB9DC0A5224720DD0675549094"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldLayerSidecar.cpp",
+    "bytes": 7586,
+    "sha256": "0ACAD814AC6EA0A9FD2DBF89FDC459E15CAD95B34864DFC33E644852C183C34D"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldLayerSidecar.h",
+    "bytes": 1220,
+    "sha256": "EEA7F63812129800E0390BDFE212218977422BF3378B5391EBCF16426A4A447F"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldLibraryManifest.h",
+    "bytes": 5375,
+    "sha256": "6013F3E7CF1DE9F5C013B9E0008E0C3C3C912E6FC214414F2DC7D94E53AD0B76"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldMapCatalog.cpp",
+    "bytes": 2542,
+    "sha256": "D612D69DF067866DA3640C7F7CC835E40B808BF686DE248022D26E82EFB8A9A9"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldMapCatalog.h",
+    "bytes": 509,
+    "sha256": "C504A89F84898085AC1AD18FE7313332DB2E8C4A197C63D3D05BD870AD20BDD4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldMapNavigator.h",
+    "bytes": 894,
+    "sha256": "CA4EC8ECADE3FEC176A08F79C50BB288D2CF516154A569DABC9A3A4F73B315E1"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldMapValidator.cpp",
+    "bytes": 11424,
+    "sha256": "066EE5EDEBC6803396FA052DD7188B22A93FE38D3EF3208E769147313478C85E"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldMapValidator.h",
+    "bytes": 1489,
+    "sha256": "58B724DE1B7795CD0CE3B1A1F9FEB74184FE94A987B9E287E0D5A157836F6DE5"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelCatalog.cpp",
+    "bytes": 6719,
+    "sha256": "5E827D12042AE6E7CD2ABB32B87AEE1E2182CF7904DD993B499AE26E75923C69"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelCatalog.h",
+    "bytes": 832,
+    "sha256": "29455680195FA1A62F07038CDBDF862A65715E1F2BD1250D3B83D2ECCA3FAA58"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelInspection.cpp",
+    "bytes": 7849,
+    "sha256": "A730AC1FBF1DAA1760315BF80AD8FA6D7A8137980312AF4A93F2545C196B44F3"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelInspection.h",
+    "bytes": 903,
+    "sha256": "2C2EFB7166715E3FD87CC6BF05AFC100B8993E0326AC4DB9EAE069469D10090E"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelPackage.cpp",
+    "bytes": 14270,
+    "sha256": "DC69322DA8217221D4D41B507AA9556BEC4E737CE8D422432FFABFD48321470A"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelPackage.h",
+    "bytes": 1028,
+    "sha256": "DE7E2226CE3491EF7880BC3CA38F334C6A7E310DFEEC59083E785EE7B8B637D4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelPreview.cpp",
+    "bytes": 10034,
+    "sha256": "24E3A88A93E41EA66D0A08B003C542436A598FD03CEBE4EB9F0EC675D8D92F6A"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelPreview.h",
+    "bytes": 802,
+    "sha256": "81AA1799054673065E6DAFEAD374B0D310785C100EF7C4B8760E3B1F5F58D2EB"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelReader.cpp",
+    "bytes": 1905,
+    "sha256": "C9228C58712E43D5C850C00CFC0199AB7CFA70805CCC349B2B63929B24060D0C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldModelReader.h",
+    "bytes": 713,
+    "sha256": "4FAC36108955A15A443DAA65E4A3A70A4F24BD0288589740E9F22080394AEDA7"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldMonsterSpawnDocument.cpp",
+    "bytes": 10707,
+    "sha256": "5473F1763212A717CB55B25BBCA29F52953C66B9F0FCAA08D53EF4C82DB7CF24"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldMonsterSpawnDocument.h",
+    "bytes": 3172,
+    "sha256": "8FFCFC4978D28D73239650DA028114414C84228359FF389C29885ABC37FFDD30"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldNpcCatalog.cpp",
+    "bytes": 1998,
+    "sha256": "A9E2A451143DC3D84EAB1F0FEFD62CEAEC265B05CC66828C199432C152D8C558"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldNpcCatalog.h",
+    "bytes": 436,
+    "sha256": "E92D9725E5289129A2A56DE9AC95F9984B951BBD64BA0FF5C6BF55A81EFC4B0A"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldNpcVisualBindings.h",
+    "bytes": 10321,
+    "sha256": "C44644B31A2EE278C2B15AF8CBCE5C9223BE9B33EC72844F2CAF9F80D808EE3C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectCandidate.cpp",
+    "bytes": 9128,
+    "sha256": "4D8A78762191FDB93583AC54DB4D81F60934CCD541544864007794BEB70980FE"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectCandidate.h",
+    "bytes": 1030,
+    "sha256": "F3C5BE0366B78E8C658DB5F77661AC738BAB0769038EDDABE116A02563CCD9FC"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectCodec.cpp",
+    "bytes": 5706,
+    "sha256": "75C53A02FBC2BD0D3C53C6CE9E7CAC10597133034DE19A38178B7C72420A61E9"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectCodec.h",
+    "bytes": 746,
+    "sha256": "5FA679642171D17965E915E5349753F270DA48A7BFE729C0D8FFF8131D6D314A"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectDocument.cpp",
+    "bytes": 9606,
+    "sha256": "93E3F91F0D9EE37C5551D9A8337A449083EEF49B61D45D7CC3E501937B046F03"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectDocument.h",
+    "bytes": 2491,
+    "sha256": "095C51BC01A334E51087E8F46750AC97C140ACB1254236003A2BAD9D8011B768"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectLinks.h",
+    "bytes": 1089,
+    "sha256": "7C86819980795C2EE72A103FCDD8937AA28498965A4F06C4D3FF89F725CD4DAF"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectRecord.cpp",
+    "bytes": 2493,
+    "sha256": "C86E471CF6FE103A17083AD9A3AEAFCB6BD31D59BBBE9BC6D17BE8A579C3A025"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldObjectRecord.h",
+    "bytes": 776,
+    "sha256": "9CB59F6900E97D8B29B4E2D1F8C9C80346A6B3DA2D0ADE0C83FAD9D0ED925192"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldOpenMuApplyPlan.cpp",
+    "bytes": 5365,
+    "sha256": "7B689D1A3112677532DC4323FB8D68ED33011DC4F9783D955CE09C5A24F2E4BA"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldOpenMuApplyPlan.h",
+    "bytes": 1046,
+    "sha256": "0A8F1BE341AB2EA3939003BCF57D2BFAB2763B2CF2CB21A330AA7E8EC5C7ECA6"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldOpenMuBackupManifest.cpp",
+    "bytes": 3094,
+    "sha256": "77EAE6DFA638D81C76A7AC278697FB2A7BBF336E868F7F2BF7FF1F6F36092D18"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldOpenMuBackupManifest.h",
+    "bytes": 1003,
+    "sha256": "169BC0CFD8007BFDFFB94365C424BFC8A1A5CF5A3F0D14F111462FC88130E3B7"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldOpenMuDryRun.cpp",
+    "bytes": 1255,
+    "sha256": "16CFC3AFB26D482C50AC8BF2B2DD65CD8C1069BF5728BC4A879F08EB0175B9A5"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldOpenMuDryRun.h",
+    "bytes": 731,
+    "sha256": "E7706BCDDD442E30B5EA5B5404968FFB62B563D019A56BCD2308580751C6EF79"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldPlacementSession.cpp",
+    "bytes": 7685,
+    "sha256": "103B356194D2B8A1777F61CD8A39E92C064CE2BDF565F98D2A4A729127B50B1F"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldPlacementSession.h",
+    "bytes": 3144,
+    "sha256": "852B4E605F169CAD275F5939C8E3C26648DE4865E25A94D15A24FCF7DA317A31"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldPlacementSurface.h",
+    "bytes": 715,
+    "sha256": "D58EFC529C57C1B0275C4DEE6F81B2AE35447D10CD0D714C456C0BBB6BCAE113"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldPrefabCodec.cpp",
+    "bytes": 5342,
+    "sha256": "415932D9D3B141B7F8DB80F2B1CE25A193F6320D8669D4E02F5234C0176DBE9F"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldPrefabCodec.h",
+    "bytes": 895,
+    "sha256": "DEA41D1A69C4B0C276A1363FFE026D7D2C117B5EC23AB63DECCBBC8086DDCF65"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldPrefabInstanceDocument.cpp",
+    "bytes": 1885,
+    "sha256": "852A59654824A50E65B1A6E58CF5A244F5DE2F7C4528FEE436716F33088D393D"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldPrefabInstanceDocument.h",
+    "bytes": 917,
+    "sha256": "55EF1E5D18C26843A2F59FC920AF50FC41631338121645B81DA3DBC189DFC1A2"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldRegionDocument.cpp",
+    "bytes": 9960,
+    "sha256": "CF7B74C98192BB669B5ACCD3569938FE89F00C312EEEA7B7710404B2C8791B24"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldRegionDocument.h",
+    "bytes": 3141,
+    "sha256": "6FCA5ABAE3E073966679AF25DA77C4B06D70C5A06D18F5CC5A7CDB8472D2E6A4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldRuntimeEffectCatalog.cpp",
+    "bytes": 1553,
+    "sha256": "43BBD20E4354549AB65B0A240DC7093D16234904A94C54E1228E5EFDB4A5A808"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldRuntimeEffectCatalog.h",
+    "bytes": 406,
+    "sha256": "CFCCBF9A2DAFFCD295CF7B74C6C67E19493EAB282BDBF4421525AE5DE4B4B29D"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSelectionContext.cpp",
+    "bytes": 1406,
+    "sha256": "E8025B8F1606390F383F51B4161C970027FC1F097A6AB7DD720353E83F6A43E3"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSelectionContext.h",
+    "bytes": 707,
+    "sha256": "9C477CF9BBD17FA388158154DD943BA32A420BB33DA60C589ABE9B4084A83B02"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSilverHdLibrary.cpp",
+    "bytes": 6992,
+    "sha256": "AD0D9D55C87BC1A433DA63138E0CF6405771EB604AB09A9402E24A9DAB118BA6"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSilverHdLibrary.h",
+    "bytes": 446,
+    "sha256": "8A3FFB17254DBEB6B581186159AE7280D44B9F6EC00E5F5ADD1A123A474764B8"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSilverHdPromotion.cpp",
+    "bytes": 4282,
+    "sha256": "81F6255739D6F8DC0B9C3E9D6435260F9B60AEBD782F3170288FFFF0DCF090DA"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSilverHdPromotion.h",
+    "bytes": 1022,
+    "sha256": "39CA32ACD34D100A437F225F7AA1D5AC8AD7A1F935119A3586BBBBE4D33ABC67"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSilverHdRegistry.cpp",
+    "bytes": 12360,
+    "sha256": "1EA6D9013428D60F572DFD32F1A5CF3F9AAA852EF87C59784DC10D5E10E06705"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldSilverHdRegistry.h",
+    "bytes": 2088,
+    "sha256": "1B921CA214F37A6E7E5415C4D4A0626F68C544FFBDC36F9311471F94F808AAD4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldTerrainDocument.cpp",
+    "bytes": 17100,
+    "sha256": "DA34165B1E28F01460FDF57B25A9D804009BDCC4E99ECAFF1738B1AFBB1A5AAF"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldTerrainDocument.h",
+    "bytes": 3222,
+    "sha256": "7E3FA08F89D734B733A8188560694CD31EB6FEB6870BC6DB64B2256211EF2DBA"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldTerrainFiles.cpp",
+    "bytes": 7325,
+    "sha256": "BA0D6CC234DABEB66BD3A5A54A2834FE945BB02156AD23FA2C12BB236FA13010"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldTerrainFiles.h",
+    "bytes": 1090,
+    "sha256": "98186AA7527C2346E37E211344BA5ECE3D4BD675FB8083C184C1788CAB8953B5"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldTriggerDocument.cpp",
+    "bytes": 8618,
+    "sha256": "998567B9FA5D357A2666542EE7B4745D156A3C3AA27C00A3700E14DFD14C8FCC"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldTriggerDocument.h",
+    "bytes": 2854,
+    "sha256": "A233E9CF263A3D2B4FC3557FF7ACB4520C972D3C05ECB0EFCDE6ED40911A6722"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/core/WorldWorkspaceLayout.h",
+    "bytes": 1890,
+    "sha256": "F298CCB256B40B1D56E3EEAE430263C8AD4DA75381C4FC78A995502F0A59C75C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/third_party/sources.lock.json",
+    "bytes": 3928,
+    "sha256": "0CE566D746C6292E0C3968C7D27958D9E71C5B91D385408EF711A13887AD3571"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/third_party/ImGuizmo/.gitattributes",
+    "bytes": 14,
+    "sha256": "A79691A93B46E49CE460C26EF22AFCC03D6ECA1E63BF2EDBC20E96159510F6C9"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/third_party/ImGuizmo/ImGuizmo.cpp",
+    "bytes": 135768,
+    "sha256": "CA7112CEF944D20C47E352B351BD5F9936E9378FCD20BFBF12BC4D6EA2DE1544"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/third_party/ImGuizmo/ImGuizmo.h",
+    "bytes": 16992,
+    "sha256": "364B73D46F457CA09293CFC63A66FBBBE9B2E75F981D7AFD6DC458AC80D5DBA6"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/third_party/ImGuizmo/LICENSE",
+    "bytes": 1083,
+    "sha256": "B957968BE18BBC4FDE7705CFCBDA10BEA1A71614E62361ACE0473BB97DD0B700"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/IWorldEditorScene.h",
+    "bytes": 3170,
+    "sha256": "CD78F7F6B393412E65B2076B5EBAA259D384C4CA0CEA8D731F8C28EA764D06C8"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/TerrainBrushUI.cpp",
+    "bytes": 5718,
+    "sha256": "5F2D8657F79B553B29362B63FCA685190525A6506357F4B21CF7854E95B44E43"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/TerrainBrushUI.h",
+    "bytes": 753,
+    "sha256": "4E3EA01321E9783D71CEE9AC40B741F99CCED93D91C86E6D4DB846A11DB3EC9C"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldAiAssistantUI.cpp",
+    "bytes": 20548,
+    "sha256": "EDDEFEDD3A9B98D5B45BF7599586F0251BF344372FAA8D43309459F7E71F9EE8"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldAiAssistantUI.h",
+    "bytes": 1842,
+    "sha256": "C7C5FC6366FD61D20A0E74BC67FEDDBBDF8B76F68868ACF329D86136886E83BC"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldCadUI.cpp",
+    "bytes": 6948,
+    "sha256": "564212FB77B02AEA64FC7B4849ACB02139BC809FC4EB45CA78B07803E996E7EA"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldCadUI.h",
+    "bytes": 687,
+    "sha256": "AF9FB0BEE2B8CD8728658F5794D5CBB9803553DA976B500E62C5C26C6A16F8EF"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldEditorUI.cpp",
+    "bytes": 55196,
+    "sha256": "104276281D7F760312B4152636E4BDA24AB63A90BE41AF042740B884CA1F02BD"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldEditorUI.h",
+    "bytes": 5283,
+    "sha256": "789DC3C3F2D36573840314C2D20451A5FE24A1DC4DC8A6BECC5F68B45270B28B"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldEffectsUI.cpp",
+    "bytes": 4662,
+    "sha256": "C5317F03083B5193808005ECDB825713A2025C64519F951088874FB628470209"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldEffectsUI.h",
+    "bytes": 671,
+    "sha256": "321BE4A05C45FBE9D87C6E4D03170A2207601A0F0B3E8355C7135A4F7551FCD1"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldGateUI.cpp",
+    "bytes": 5043,
+    "sha256": "45E8A1EF2FF2B9546EBC53420C9F6AEEDBA674EE4426705E959652713EC537F7"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldGateUI.h",
+    "bytes": 657,
+    "sha256": "6D1F90E5F7FA61F5D75AC61AB590D80D9A12328DCB77A8270F9A836587333BA0"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldModelInspectionUI.cpp",
+    "bytes": 5309,
+    "sha256": "1ECBFF2AE6702F0B3DA800F8200B2BC008B5033104DD8BAF17DDC3F4A299CEBC"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldModelInspectionUI.h",
+    "bytes": 693,
+    "sha256": "DD79C198E543D77EC2181649FA901EF9BDF192EDEAB2B65E6DFE6FEDE8FB122E"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldModelLibraryUI.cpp",
+    "bytes": 36441,
+    "sha256": "D2AD9FBFCBB5B527110490B10A287A4BC2BB524CD1297D4A25938EAABE5FA565"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldModelLibraryUI.h",
+    "bytes": 2792,
+    "sha256": "CDB7392BC44D4C04C8CF58D63AF1978E237AEB697E4F89A1FEB2A53CD3678A07"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldModelThumbnail.h",
+    "bytes": 189,
+    "sha256": "EF4733A85380465763E8653A0A659633BBECEA80FE91B8C3C1148139F5BB425A"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldNpcLibraryUI.cpp",
+    "bytes": 8218,
+    "sha256": "2A28B178D60A766325A7794D0F773EBA211958C31FFFDD1B13967E82AD64E94A"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldNpcLibraryUI.h",
+    "bytes": 1188,
+    "sha256": "872F3B52B3BFFF5F3C16FE69E113B8DACB74A274819B09A801B443C6FCB50C02"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldPlacementUI.cpp",
+    "bytes": 5983,
+    "sha256": "16CC1B4D772B1A0165AC10B0D150D8D47F44E438E27F8916D14C5F17163604B4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldPlacementUI.h",
+    "bytes": 814,
+    "sha256": "2A03C2AA725397EFF2814A3C3A300A2A903EAEF07022DFE225C3CDC5AA7E8F68"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldTerrainUI.cpp",
+    "bytes": 25555,
+    "sha256": "AFE444E5647B92C31D6837C3698E7421636D983AECC6CEE56F52391C41C6A927"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldTerrainUI.h",
+    "bytes": 1289,
+    "sha256": "F35A156C78292506F058347DC69B2DD36EFB4D138DB7DD37B14433F3CF5916B8"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldTriggerFlowUI.cpp",
+    "bytes": 4814,
+    "sha256": "791C39D71528FBE2B8A1267F5A22F5521B25DA9C44C9E4D6313A2ADC5AA3F60B"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldTriggerFlowUI.h",
+    "bytes": 768,
+    "sha256": "F25B1708E98760A22714E38F73F826D8BC69F283776DD71B732BB13BB9D17057"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldViewportInput.h",
+    "bytes": 596,
+    "sha256": "484D1CB3AA8887F41296D7F581782D81BDCB60367E2FDF825A86DE3D4AAF46C4"
+  },
+  {
+    "path": "src/MuEditor/WorldEditor/ui/WorldWorkspacePanel.h",
+    "bytes": 920,
+    "sha256": "D1CB8E4D2019E3E4A6898979B2B8B42D045F82D88FCB0231C022C303C688E864"
+  },
+  {
+    "path": "tests/world_editor/BlenderProcessTests.cpp",
+    "bytes": 1620,
+    "sha256": "382B81122154CE8A48045C44463A91FE1258CAC0EE062A0FA45A1FE2A3AF4835"
+  },
+  {
+    "path": "tests/world_editor/CadLayoutTests.cpp",
+    "bytes": 2816,
+    "sha256": "5CF9A766272919ED375F82BA55D2CCC357A77DACDDE378A8C061ABD1618493A7"
+  },
+  {
+    "path": "tests/world_editor/CMakeLists.txt",
+    "bytes": 15426,
+    "sha256": "F0975CA4E1F166DE3FBFCC9EBEBE386083E9DCEEF02388D20C60B92C98308FE7"
+  },
+  {
+    "path": "tests/world_editor/EffectsTests.cpp",
+    "bytes": 3726,
+    "sha256": "BB1995BC35F479C36E7876A6D77385C2E43A7DACB32E62041F2D85885624DF25"
+  },
+  {
+    "path": "tests/world_editor/GateTests.cpp",
+    "bytes": 6274,
+    "sha256": "07EBDBC62172F2D933380791D1F67C5B465B1EC055A6032A2C79A94861A58D4D"
+  },
+  {
+    "path": "tests/world_editor/GlobalAssetRegistryTests.cpp",
+    "bytes": 5199,
+    "sha256": "C8C76065B7460A01CCC900270AC9D2FFCDC6908B59917FF90B1312017A0EE398"
+  },
+  {
+    "path": "tests/world_editor/LayerSidecarTests.cpp",
+    "bytes": 3698,
+    "sha256": "A72235896793388A9E5DDD9762378F96257E32E45F9B9933662AFC295EA29BBC"
+  },
+  {
+    "path": "tests/world_editor/LayerTests.cpp",
+    "bytes": 5217,
+    "sha256": "738DD1B8162657E46A196C85D637028C3ACEEB0A39E1FE1AE660D9512224D877"
+  },
+  {
+    "path": "tests/world_editor/LibraryManifestTests.cpp",
+    "bytes": 2592,
+    "sha256": "6F65660F389F1F2AEF9433E67007082D2D7D71A78B5483A3E98FB2095172C658"
+  },
+  {
+    "path": "tests/world_editor/MapRuntimeTests.cpp",
+    "bytes": 4091,
+    "sha256": "EBA75FF80C6CBA1030C1506AFE02826C0D4F62F8CCD420501669AF4DEE9458B1"
+  },
+  {
+    "path": "tests/world_editor/MapValidatorTests.cpp",
+    "bytes": 3473,
+    "sha256": "25646A45101E8C86B3756CB93E006B98E790FCE36B80EB17987EBDE10440B99E"
+  },
+  {
+    "path": "tests/world_editor/ModelPackageFixture.h",
+    "bytes": 1574,
+    "sha256": "C12434845E103479152B411080B31319AAB92089F445B0A32D8EDAD8268712BC"
+  },
+  {
+    "path": "tests/world_editor/ModelPackageTests.cpp",
+    "bytes": 9198,
+    "sha256": "30A76F8C3432C9039319EE74452869F2F29A79C8D7672374DCCAC12CEA5DAF62"
+  },
+  {
+    "path": "tests/world_editor/ModelPreviewTests.cpp",
+    "bytes": 12893,
+    "sha256": "8BEFCB6524D45F9DAA300DB9A7750E6F545D6B480C6C5E981CE0984F15BDA0F7"
+  },
+  {
+    "path": "tests/world_editor/MonsterSpawnTests.cpp",
+    "bytes": 6935,
+    "sha256": "731E48F7DE91241E22FD76C069AEEB77E09214101AA97CE4236D21E64FFF610D"
+  },
+  {
+    "path": "tests/world_editor/PlacementScaleTests.cpp",
+    "bytes": 989,
+    "sha256": "B5BF53B7628E986D405207195A9EBA0AD8390D15C63B0340F547BE815C6DCCB9"
+  },
+  {
+    "path": "tests/world_editor/PlacementTests.cpp",
+    "bytes": 17245,
+    "sha256": "F44B6CF287CB5BD41818D2DB9B2D346556C34B455D6ECFFC7A40B21F894DE902"
+  },
+  {
+    "path": "tests/world_editor/PlacementTestSupport.h",
+    "bytes": 2957,
+    "sha256": "C3C195FD0B438F0DD14B1CE61F701EC3539FEB98701A664AB6E2AC58A7BF419B"
+  },
+  {
+    "path": "tests/world_editor/PlacementUiTests.cpp",
+    "bytes": 16708,
+    "sha256": "1E274039F4689E2D5B60802BCD7A058113B3FCB5D7FC87FF94AD859344D5B18A"
+  },
+  {
+    "path": "tests/world_editor/PrefabTests.cpp",
+    "bytes": 2071,
+    "sha256": "C5DE63168792E30D62A6F7FDB6403A99BD38605C6C98D91CEC6903B66C4D31B0"
+  },
+  {
+    "path": "tests/world_editor/RegionTests.cpp",
+    "bytes": 2371,
+    "sha256": "D0BB6FE11CD0EFF29C0B89543768042CCFA64C053F2FF81AA1770BFDFFC101F4"
+  },
+  {
+    "path": "tests/world_editor/SelectionTests.cpp",
+    "bytes": 6759,
+    "sha256": "575C7F0A6ADF000F34E9EA97331E529FEB3A1D9D710B6E40245F2A2569EA5C8E"
+  },
+  {
+    "path": "tests/world_editor/ShaderBindingHelperTests.cmake",
+    "bytes": 1394,
+    "sha256": "5ECA304FF852BFA4C2CEB9EC9C3D409D09D11591F18E9A0AD7F181BAEA5ABB5F"
+  },
+  {
+    "path": "tests/world_editor/SilverAiContractTests.cpp",
+    "bytes": 14364,
+    "sha256": "AB903A366E3038773F220F49BDA9ED59947215AC8883B22B2DE13238ABF86AA3"
+  },
+  {
+    "path": "tests/world_editor/SilverHdRegistryTests.cpp",
+    "bytes": 12742,
+    "sha256": "9BBD665C2C9E08AAF4AFC8D3354CBB3B5DF48D4E81585A1465B162FC11A00DFE"
+  },
+  {
+    "path": "tests/world_editor/SilverWorldStudioBridgeTests.cpp",
+    "bytes": 2575,
+    "sha256": "AA0A160817061E6B39E4D5D2CA60C43806ABA7AAF86A7976991AC7EA69A0F431"
+  },
+  {
+    "path": "tests/world_editor/TerrainTests.cpp",
+    "bytes": 26497,
+    "sha256": "E695E5D04DC714B2B3C9FC813866B8DA489AB097AC46D4224543ADA6981CCA9E"
+  },
+  {
+    "path": "tests/world_editor/TriggerTests.cpp",
+    "bytes": 2023,
+    "sha256": "05A73DD7F88CF3C530E51AD524A9AF146BF4C36C1FCAB5DCB87CA71882414CB6"
+  },
+  {
+    "path": "tests/world_editor/WorkspaceTests.cpp",
+    "bytes": 4591,
+    "sha256": "6D9BA2C705B8BE625E08FC825EE04C76E732692C0315BF2B5B62995DD440FBF7"
+  },
+  {
+    "path": "tests/world_editor/WorldHistoryCoordinatorTests.cpp",
+    "bytes": 2363,
+    "sha256": "339DD45F5FE5605FC055ED982B99E3430F5071C835E4C25A415B61DBD8733B60"
+  },
+  {
+    "path": "tests/world_editor/WorldSurfaceMaterialTests.cpp",
+    "bytes": 3723,
+    "sha256": "509545DD1BC019E657B96B29270A997F34BC6C9C2EF26A57797B277CA9E8ED9A"
+  }
+]
