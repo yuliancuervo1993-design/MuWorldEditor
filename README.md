@@ -5,7 +5,9 @@
 
 Código fuente del módulo WorldEditor desarrollado en Silver Core para el editor integrado en el cliente MU clásico.
 
-Copyright (c) 2026 Julian Di Sanzo. Los avisos y licencias de terceros se conservan en sus archivos.
+Un aporte a la comunidad para que otras personas puedan estudiar el editor, continuarlo, corregirlo y compartir sus mejoras.
+
+Copyright (c) 2026 Julian Di Sanzo. Aportes propios publicados bajo licencia MIT. Los avisos y licencias de terceros se conservan en sus archivos.
 
 ## Alcance de esta publicación
 
@@ -35,7 +37,13 @@ Esta publicación no incluye Unreal Engine, proyectos ni derivados de Unreal, el
 
 ## Derechos y dependencias
 
-La publicación pública de estas fuentes fue autorizada por el titular. No se ha elegido una licencia de código abierto para los aportes propios: se conserva `LICENSE-SILVER-CORE.txt`. Esta publicación concreta no autoriza la publicación de otros componentes de Silver Core ni concede permisos adicionales de reutilización.
+Los aportes propios de Julian Di Sanzo incluidos en esta publicación se ofrecen bajo la licencia MIT de `LICENSE`. Se permite usarlos, modificarlos, distribuirlos y continuar su desarrollo, incluso con fines comerciales, conservando el aviso de copyright y el permiso de la licencia. No se exige que las modificaciones se hagan públicas.
 
-ImGuizmo conserva su licencia MIT en `src/MuEditor/WorldEditor/third_party/ImGuizmo/LICENSE`. Las menciones a otras dependencias en `sources.lock.json` identifican versiones; no implican que todas ellas estén incluidas en este repositorio. Las licencias de terceros se aplican a sus respectivos archivos.
+Esta autorización se limita al contenido publicado en este repositorio. No cambia la privacidad ni la licencia de otros componentes de Silver Core, de Unreal Engine ni de archivos que no se incluyen aquí. Tampoco concede derechos sobre código o recursos de terceros.
+
+ImGuizmo conserva su licencia MIT y atribución originales en `src/MuEditor/WorldEditor/third_party/ImGuizmo/LICENSE`. Las menciones a otras dependencias en `sources.lock.json` identifican versiones; no implican que todas ellas estén incluidas en este repositorio. Las licencias de terceros se aplican a sus respectivos archivos.
+
+## Continuar el proyecto
+
+Los reportes de errores, documentación y propuestas de mejora son bienvenidos mediante issues y pull requests. Indica el problema que resuelve cada cambio, sus dependencias y cómo lo comprobaste. No adjuntes credenciales, datos personales ni assets del juego que no tengas permiso para compartir.
 
