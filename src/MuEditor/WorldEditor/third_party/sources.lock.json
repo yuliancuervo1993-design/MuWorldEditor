@@ -1,0 +1,114 @@
+[
+  {
+    "repository": "CedricGuillemet/ImGuizmo",
+    "commit": "18cef5e031d8c6973d80284c67f60549fafd78c1",
+    "source": "src/ImGuizmo.h",
+    "sha256": "364b73d46f457ca09293cfc63a66fbbbe9b2e75f981d7afd6dc458ac80d5dba6",
+    "bytes": 16992
+  },
+  {
+    "repository": "CedricGuillemet/ImGuizmo",
+    "commit": "18cef5e031d8c6973d80284c67f60549fafd78c1",
+    "source": "src/ImGuizmo.cpp",
+    "sha256": "ca7112cef944d20c47e352b351bd5f9936e9378fcd20bfbf12bc4d6ea2de1544",
+    "bytes": 135768
+  },
+  {
+    "repository": "CedricGuillemet/ImGuizmo",
+    "commit": "18cef5e031d8c6973d80284c67f60549fafd78c1",
+    "source": "LICENSE",
+    "sha256": "b957968be18bbc4fde7705cfcbda10bea1a71614e62361ace0473bb97dd0b700",
+    "bytes": 1083
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imgui.h",
+    "sha256": "d6b70a9d9f65d2e4571d81f921a03f3a5a02b5687e2e0afd5c340261402e5613",
+    "bytes": 418782
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imgui_internal.h",
+    "sha256": "238aee6c20e1747c0f0089c266566c6a81c9abb4918ab086025433aad500d6eb",
+    "bytes": 298899
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imconfig.h",
+    "sha256": "0b880a6ca2fc2b5fd3487adb5f92aed8b147bdcc052fb926589ef45392963eed",
+    "bytes": 12172
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imgui.cpp",
+    "sha256": "269cbb08c6d53e87823c62cd7c4168571a1a76833d106a3f1410ffb37b809475",
+    "bytes": 949191
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imgui_draw.cpp",
+    "sha256": "33234e42a1c3e5601601282b312ac46fe0d82e829d96a408dbbb04bd039f3d69",
+    "bytes": 388086
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imgui_tables.cpp",
+    "sha256": "41d4ace94847fd6b9d149082efa88b7f8e488504bc07541a852e26da377e8b28",
+    "bytes": 251169
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imgui_widgets.cpp",
+    "sha256": "8cab0894537362eee181bed801beaccf66d7c853395db0fb1af04a6e847631c5",
+    "bytes": 539197
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imstb_rectpack.h",
+    "sha256": "2efa3d5f7d003c19743b15155dad9f46d9f9fc783a18893d703b431d3c990972",
+    "bytes": 20344
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imstb_textedit.h",
+    "sha256": "a985f5fa0ed97353d493b497961e9eef52082edcd045cf6954b69990ec9d0741",
+    "bytes": 60111
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "imstb_truetype.h",
+    "sha256": "88f0a25e27f5eefd6ec50c42fc5fe3026aa8170603efa08aa18d622db8660923",
+    "bytes": 199503
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "LICENSE.txt",
+    "sha256": "173506a2d6f7fb67990d257fb2507f188690eca39060c39469ae7bef43aae2a3",
+    "bytes": 1083
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "backends/imgui_impl_sdl3.h",
+    "sha256": "a8cbd19af65e19b94c3f447fc2d5de79056cc9c0f646b84baf1054d88692bddf",
+    "bytes": 2972
+  },
+  {
+    "repository": "ocornut/imgui",
+    "commit": "21d3299e588b5c702dcca0f448b4f937af369b4a",
+    "source": "backends/imgui_impl_sdlgpu3.h",
+    "sha256": "e8906321f385c20158f46740fa504665bb77c6281c6771b74e5cca4fdb14f12d",
+    "bytes": 4286
+  }
+]
